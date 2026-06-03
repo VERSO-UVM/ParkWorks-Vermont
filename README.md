@@ -1,4 +1,7 @@
 # ParkWorks-Vermont
+
+THIS IS A PROTOTYPE WEBSITE, NOT CURRENTLY BEING UPDATED
+
 A resource hub for Vermont municipalities and park &amp; recreation organizations to plan, design, fund, and sustain community parks.
 
 ## Project Overview
